@@ -1,6 +1,7 @@
-![MasterHead](https://www.labtopiainc.com/media/files/news/0b9aa198/computerscience.jpg)
 <h1 align="center">Hi 👋, I'm Alfred Syatsukwa</h1>
 <h3 align="center">A passionate developer from DRC</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrAlfred&show_icons=true&theme=radical)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iralfred&label=Profile%20views&color=0e75b6&style=flat" alt="iralfred" /> </p>
 
