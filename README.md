@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alfred Syatsukwa</h1>
-<h3 align="center">A passionate developer from DRC</h3>
+<h3 align="center">A passionate developer from Butembo, DRC</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrAlfred&show_icons=true&theme=radical)
 
